@@ -1,0 +1,38 @@
+{
+  "name": "usemiddleman-react",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^3.24.2",
+    "@cosmjs/cosmwasm-stargate": "0.32.3",
+    "@cosmjs/proto-signing": "^0.32.3",
+    "@cosmjs/stargate": "^0.32.3",
+    "@cosmos-kit/cosmostation": "^2.15.3",
+    "@cosmos-kit/keplr": "^2.15.3",
+    "@cosmos-kit/leap": "^2.15.3",
+    "@cosmos-kit/react": "^2.22.3",
+    "@cosmos-kit/react-lite": "^2.16.3",
+    "@cosmos-kit/station": "^2.13.3",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "buffer": "^6.0.3",
+    "chain-registry": "^2.0.45",
+    "framer-motion": "^12.23.12",
+    "process": "^0.11.10",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "@vitejs/plugin-react": "4.2.0",
+    "typescript": "5.4.5",
+    "vite": "5.2.0"
+  }
+}
