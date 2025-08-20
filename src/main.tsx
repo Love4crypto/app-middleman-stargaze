@@ -993,7 +993,7 @@ html, body {
        <div className="flex">
   <div className="col" style={{ flex: '0 1 360px', maxWidth: 360 }}>
     <label htmlFor="starsAmount">Add $STARS to offer</label>
-    <input type="number" id="starsAmount" min="0" step="any" placeholder="Amount of STARS (optional)" />
+    <input type="number" id="starsAmount" min="0" step="any" placeholder="Amount of STARS (optional)" value={starsAmount} onChange={e => setStarsAmount(e.target.value)} />
   </div>
 </div>
  <div className="flex">
