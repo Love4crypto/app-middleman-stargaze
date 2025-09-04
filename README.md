@@ -2,6 +2,9 @@
 
 A React-based peer-to-peer NFT marketplace for the Stargaze blockchain. Users can create offers to trade NFTs with optional STARS tokens, browse active offers, and execute trades through wallet integration.
 
+Screenshot:
+![screencapture-app-usemiddleman-xyz-2025-09-04-20_09_27](https://github.com/user-attachments/assets/2e6f963a-9c9d-4551-b7cf-cbc78bd8c790)
+
 ## Features
 
 - 🔗 **Wallet Integration**: Supports Keplr and Leap wallets
