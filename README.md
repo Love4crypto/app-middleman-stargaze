@@ -5,6 +5,9 @@ A React-based peer-to-peer NFT marketplace for the Stargaze blockchain. Users ca
 Screenshot:
 ![screencapture-app-usemiddleman-xyz-2025-09-04-20_09_27](https://github.com/user-attachments/assets/2e6f963a-9c9d-4551-b7cf-cbc78bd8c790)
 
+Video of how it works:
+https://x.com/love_4_crypto/status/1958181842764304404
+
 ## Features
 
 - 🔗 **Wallet Integration**: Supports Keplr and Leap wallets
